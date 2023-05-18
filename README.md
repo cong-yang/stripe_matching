@@ -6,7 +6,7 @@ omputer and Information Science, volume 656, 2016, pp 59-72.
 
 paper: https://link.springer.com/chapter/10.1007/978-3-319-40171-3_5
 
-<img src="stripes.png" height="600">
+<img src="stripes.png" height="300">
 
 ## Citation
 
